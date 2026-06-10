@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamesngeo4062-sketch.github.io/Financeconsultancy/sitemap.xml
