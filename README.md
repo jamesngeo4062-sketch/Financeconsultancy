@@ -17,7 +17,10 @@ The entire site is a single self-contained `index.html` file (HTML, CSS, and van
 - Free strategy checklist lead magnet
 - Enquiry/consultation form (powered by [FormSubmit](https://formsubmit.co/))
 - FAQ accordion
+- Floating WhatsApp chat widget with quick-reply queries
 - Footer with disclaimer
+
+SEO: localized title/meta tags, Open Graph/Twitter Card previews, JSON-LD structured data (`FinancialService` + `FAQPage`), `robots.txt`, and `sitemap.xml`.
 
 ## Running locally
 
