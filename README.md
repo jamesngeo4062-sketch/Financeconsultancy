@@ -4,6 +4,8 @@ A modern, single-page landing site for an investment strategy / financial adviso
 
 **Live site:** https://jamesngeo4062-sketch.github.io/Financeconsultancy/
 
+![Site screenshot](images/screenshot.png)
+
 ## Overview
 
 The entire site is a single self-contained `index.html` file (HTML, CSS, and vanilla JavaScript — no frameworks or build step). It includes:
