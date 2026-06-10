@@ -26,3 +26,9 @@ python3 -m http.server 8000
 Then open `http://localhost:8000`. The form's AJAX submission requires the page to be served over HTTP/HTTPS (not opened directly as a `file://` path).
 
 See [CLAUDE.md](CLAUDE.md) for architecture details.
+
+## Deployment
+
+A GitHub Actions workflow ([`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml))
+deploys the site to GitHub Pages on every push to `main`. In the repo's
+**Settings → Pages**, the source must be set to **GitHub Actions**.
